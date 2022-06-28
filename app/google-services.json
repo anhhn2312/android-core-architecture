@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "597976677547",
+    "project_id": "super-app-architecture-demo",
+    "storage_bucket": "super-app-architecture-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597976677547:android:28121e8dc09b9e2efa8bee",
+        "android_client_info": {
+          "package_name": "com.andyha.corearchitecture.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFUctUIHchqA8zmzxdv_4rdgpzA4iE1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597976677547:android:8582ec66a1ecb555fa8bee",
+        "android_client_info": {
+          "package_name": "com.andyha.corearchitecture.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFUctUIHchqA8zmzxdv_4rdgpzA4iE1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597976677547:android:7e8cf37e489193e5fa8bee",
+        "android_client_info": {
+          "package_name": "com.andyha.corearchitecture.app.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFUctUIHchqA8zmzxdv_4rdgpzA4iE1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597976677547-qu0apc774etkgntgoinahp0q58ch3e9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
