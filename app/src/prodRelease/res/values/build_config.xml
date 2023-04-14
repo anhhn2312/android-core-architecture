@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isStorageEncrypted">true</bool>
+    <bool name="isLoggingEnabled">false</bool>
+    <bool name="isCrashlyticsEnabled">true</bool>
+    <bool name="isAnalyticsEnabled">true</bool>
+    <bool name="isProductionRelease">true</bool>
+</resources>
